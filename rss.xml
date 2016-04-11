@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ReviveRGosford]]></title>
-        <description><![CDATA[ReviveRGosford]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Gosford's Classic Cocktail Bar]]></title>
+        <description><![CDATA[Gosford's Classic Cocktail Bar]]></description>
+        <link>https://thegrid.ai/revivergosford/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 06:09:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 09:10:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/revivergosford/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedc1a29b8d-1be5-43af-a9a6-786033095c34/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba7b2022-38ae-4337-8a95-31f473c4b42f.jpg">]]></description>
+            <link>https://thegrid.ai/revivergosford/4f459c2e-5d7c-407b-a7df-25424726c0e9/index.html</link>
+            <guid isPermaLink="false">4f459c2e-5d7c-407b-a7df-25424726c0e9</guid>
+            <pubDate>Mon, 11 Apr 2016 09:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Take a step back in time as you enjoy classic cocktails, in the relaxed, classy atmosphere of the Central Coast's only classic cocktail bar. </p>]]></description>
+            <link>https://thegrid.ai/revivergosford/c1a29b8d-1be5-43af-a9a6-786033095c34/index.html</link>
             <guid isPermaLink="false">c1a29b8d-1be5-43af-a9a6-786033095c34</guid>
             <pubDate>Thu, 07 Apr 2016 06:09:35 GMT</pubDate>
         </item>
